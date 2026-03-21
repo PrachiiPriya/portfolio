@@ -11,7 +11,7 @@ const projects = [
     description:
       "Full-stack e-commerce platform with dynamic product catalog, cart management, secure payment gateway integration, and complete order and checkout workflows.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Redux"],
-    github: "https://github.com/PrachiiPriya",
+    github: "https://github.com/PrachiiPriya/BabyCart",
     date: "Jan 2024",
     gradient: "from-violet-500/20 to-fuchsia-500/20",
   },
@@ -21,7 +21,7 @@ const projects = [
     description:
       "Platform enabling users to list, search, and book rental properties with secure authentication, booking workflows, and scalable property listing management.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Redux"],
-    github: "https://github.com/PrachiiPriya",
+    github: "https://github.com/PrachiiPriya/VacayStay",
     date: "Aug 2023",
     gradient: "from-cyan-500/20 to-blue-500/20",
   },

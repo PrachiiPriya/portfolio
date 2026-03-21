@@ -88,7 +88,7 @@ export default function Hero() {
           className="mb-14 flex flex-wrap items-center justify-center gap-4"
         >
           <a
-            href="#projects"
+            href="#experience"
             className="group relative rounded-full bg-accent px-7 py-3 text-sm font-semibold text-white transition-all hover:shadow-xl hover:shadow-accent-glow"
           >
             <span className="relative z-10">View My Work</span>
