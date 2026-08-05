@@ -8,7 +8,7 @@ const experiences = [
     role: "Software Engineer",
     company: "ZeonAI Labs",
     type: "Full-time · Remote",
-    period: "Sept 2025 – Present",
+    period: "Sept 2025 – July 2026",
     description:
       "Building backend systems and internal tools for the DeepDelve document intelligence platform.",
     achievements: [
