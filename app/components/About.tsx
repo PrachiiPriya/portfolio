@@ -86,7 +86,7 @@ export default function About() {
                   <div>
                     <p className="text-sm font-medium">Software Engineer</p>
                     <p className="text-xs text-text-muted">
-                      ZeonAI Labs &middot; Sept 2025 &ndash; Present
+                      ZeonAI Labs &middot; Sept 2025 &ndash; July 2026
                     </p>
                   </div>
                   <div>
