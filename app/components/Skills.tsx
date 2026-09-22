@@ -30,12 +30,20 @@ const skillCategories = [
   {
     title: "Databases",
     icon: Database,
-    skills: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
+    skills: ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Redis"],
   },
   {
     title: "DevOps & Cloud",
     icon: Terminal,
-    skills: ["Docker", "AWS", "AWS SQS", "Linux", "Git"],
+    skills: [
+      "Docker",
+      "CI/CD",
+      "GitHub Actions",
+      "AWS",
+      "AWS SQS",
+      "Linux",
+      "Git",
+    ],
   },
   {
     title: "Tools & Concepts",

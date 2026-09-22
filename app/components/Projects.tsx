@@ -6,6 +6,16 @@ import AnimateIn from "./AnimateIn";
 
 const projects = [
   {
+    title: "Event-Driven Order & Inventory",
+    subtitle: "Asynchronous Stock Reservation System",
+    description:
+      "Event-driven order workflow using PostgreSQL transactions, a transactional outbox, Redis workers, and idempotency to reserve stock safely. Row-level locking prevents overselling under concurrent orders, and order commits stay isolated from downstream Redis failures.",
+    tech: ["Node.js", "Express", "PostgreSQL", "Redis", "Docker Compose"],
+    github: "https://github.com/PrachiiPriya/Event-driven-order-inventory",
+    date: "Sept 2026",
+    gradient: "from-emerald-500/20 to-cyan-500/20",
+  },
+  {
     title: "BabyCare",
     subtitle: "E-commerce Platform for Baby Products",
     description:
